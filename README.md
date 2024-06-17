@@ -16,7 +16,6 @@ kafka-for-developer/
 ├── settings.gradle.kts
 ├── gradlew
 ├── gradlew.bat
-├── docker-compose.yaml
 └── README.md
 ```
 
